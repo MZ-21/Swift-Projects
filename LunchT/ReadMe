@@ -1,4 +1,5 @@
-Inspiration: Because we recognized that students needed an App where they could connect with their peers and create meaningful friendships, we were inspired to create LunchT .
+###Inspiration: <br/> 
+Because we recognized that students needed an App where they could connect with their peers and create meaningful friendships, we were inspired to create LunchT .
 What it does: LunchT is an application designed to help university students connect with one another amidst their busy and stressful schedules. It facilitates an easy way to build meaningful friendships on campus.
 How we built it: Using Swift and Xcode.
 Challenges we ran into: The challenges we faced were learning to use Swift and Xcode in a limited amount of time with limited resources.
